@@ -1,0 +1,172 @@
+{
+  "main": {
+    "name": "Dipesh Merchant",
+    "occupation": "Web Developer",
+    "description": "Python Django Developer by Day, Freelancer by Night.",
+    "image": "Dipesh.jpg",
+    "bio": "My name is Dipesh, I'm a Python Django Developer. Currently I'm working with AurionPro Solutions.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "merchant.dipesh@gmail.com",
+    "phone": "+91 9820700271/7021455917",
+    "address": {
+      "street": "Navghar Road Bhayander(E).",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "401105"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "../images/DIPESH1-1.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dipesh.merchant.5",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dipesh-merchant-62802565/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dipeshmerchant/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Miracle619",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Pune",
+        "degree": "Bachelor of Engineering (Computer Science)",
+        "graduated": "June 2014",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "AurionPro Solutions",
+        "title": "Senior Software developer",
+        "years": "July 2018 - Present",
+        "description": "Working on Banking Project RRB ( RBI RELEIF BONDS )."
+      },
+      {
+        "company": "DataComp Webtech Pvt Ltd.",
+        "title": "Associate Software developer",
+        "years": "May 2016 - May 2018",
+        "description": "Woking on LIC (LiFE INSURANCE CORPORATION) Application."
+      },
+      {
+        "company": "Regal Infonet.",
+        "title": "Junior Software developer",
+        "years": "Aug 2014 - April 2016",
+        "description": "Woking on CRM (Customer Relationship Management) Application."
+      }
+    ],
+    "skills": [
+      {
+        "image":"python.jpg",
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "image":"django.jpg",
+        "name": "Django",
+        "level": "50%"
+      },
+      {
+        "image":"reactjs.jpg",
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "image":"firebase.jpg",
+        "name": "firebase",
+        "level": "40%"
+      },
+      {
+        "image":"css.jpg",
+        "name": "CSS",
+        "level": "40%"
+      },
+      {
+        "image":"git.jpg",
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "image":"vb.jpg",
+        "name": "Visual Basic",
+        "level": "100%"
+      },
+      {
+        "image":"html.jpg",
+        "name": "HTML5",
+        "level": "50%"
+      },
+      {
+        "image":"postgres.jpg",
+        "name": "Postgres Sql",
+        "level": "40%"
+      },
+      {
+        "image":"sql.jpg",
+        "name": "SQL Server",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "@datacomp webtechnologies, I Learn about What is Life Insurance!!",
+        "user": "DataComp Webtechnologies"
+      },
+      
+      {
+        "text": "@Regal Infonet, I Learn about What is CRM (Customer Relationship Management) !!",
+        "user": "AurionPro Solutions"
+      }
+    ]
+  }
+}
